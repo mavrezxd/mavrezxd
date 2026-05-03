@@ -13,7 +13,7 @@ Welcome to my Profile! 👋
 <br>
 
 [![YouTube](https://img.shields.io/badge/SUBSCRIBE-1K-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEPGmoQPvnWaOuqBrHAI9zg)
-[![Discord](https://img.shields.io/badge/DISCORD-riv5547-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/772963737597509632)
+[![Discord](https://img.shields.io/badge/DISCORD-957amazon-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/772963737597509632)
 [![Stars](https://img.shields.io/badge/STARS-28-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/957amazon)
 
 ---
